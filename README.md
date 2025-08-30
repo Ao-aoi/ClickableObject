@@ -1,7 +1,7 @@
 # ClickableObject - Usage Guide
 
 ## Demo
-![ClickableObject] demo.gif
+![ClickableObject](demo.gif)
 
 ## 概要: 
 
